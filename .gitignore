@@ -1,0 +1,8 @@
+backup
+evaluation
+pre-processing.py
+__pycache__
+.pytest_cache
+generator.tar
+discriminator.tar
+dataset
